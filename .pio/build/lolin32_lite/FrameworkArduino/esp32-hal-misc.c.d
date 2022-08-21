@@ -1,6 +1,6 @@
 .pio/build/lolin32_lite/FrameworkArduino/esp32-hal-misc.c.o: \
  C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-misc.c \
- C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/qio_qspi/include/sdkconfig.h \
+ C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include/sdkconfig.h \
  C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/freertos/FreeRTOS.h \
  C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
  C:/Users/ASUS/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_common/include/esp_compiler.h \
